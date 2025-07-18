@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Kaleb. My nickname is [Fred](#why-fred?), and I'm usually refered to as that. I'm a Computer Science student at Purdue (class of 2027) working toward a career in software engineering. Right now, I'm building projects and reading books to sharpen my skills. I prefer understanding how things work under the hood rather than stacking frameworks. This summer, I’m focusing on Finishing my full-stack web dev and AWS certifications and Building projects I’d actually use<br><br>
+Hi, I'm Kaleb. My nickname is [Fred](##why-fred?), and I'm usually refered to as that. I'm a Computer Science student at Purdue (class of 2027) working toward a career in software engineering. Right now, I'm building projects and reading books to sharpen my skills. I prefer understanding how things work under the hood rather than stacking frameworks. This summer, I’m focusing on Finishing my full-stack web dev and AWS certifications and Building projects I’d actually use<br><br>
 Eventually, I want to work on low-level systems or performance-focused tools using C++ or Rust. For now, I’m making my way there one solid repo at a time.
 
 
